@@ -1,0 +1,92 @@
+.card-body1 h6{
+	font-size: 60px;
+	font-weight: bold;
+	color:#84786C;
+	font-family: "arial";
+}
+.card-body1 p{
+	font-size: 25px;
+	margin:-10px 0px;
+	font-family: arial;
+	color:#84786C;
+}
+.card-img1{
+	height: 120px;
+	width: 140px;
+	margin-left: 20px;
+}
+.espacio {
+	height: 4px;
+	background-color: #BCBBBB;
+	margin: 0px 80px;
+}
+.imagen1{
+	margin: 30px 80px;	
+}
+.imagen1 img{
+	width: 1190px;
+	height: 400px;
+}
+.titulo h5{
+	color: #BCBBBB;
+	margin: 0px 80px;
+	font-size: 40px;
+	font-weight: normal;
+}
+.card{
+	border: transparent;
+}
+.card .card-img-top1{
+	margin: 5px 80px;
+	width: 350px;
+}
+.card .card-img2-top{
+	margin: 5px 40px;
+	width: 350px;
+}
+.card .card-img-top3{
+	margin: 5px 5px;
+	width: 350px;
+}
+.card-body .card-title1 {
+	color: #84786C;
+	font-size: 40px;
+	margin: 0px 80px;
+	text-align: center;
+	font-weight: normal;
+}
+.card-body .card-text1{
+	color: #84786C;
+	font-size:14px;
+	margin: 0px 80px;
+	text-align: center;
+	font-weight: normal;
+}
+.card-body .card-title2 {
+	color: #84786C;
+	font-size: 40px;
+	margin: 0px 40px;
+	text-align: center;
+	font-weight: normal;
+}
+.card-body .card-text2 {
+	color: #84786C;
+	font-size:14px;
+	margin: 0px 40px;
+	text-align: center;
+	font-weight: normal;
+}
+.card-body .card-title3 {
+	color: #84786C;
+	font-size: 40px;
+	margin: 0px ;
+	text-align: center;
+	font-weight: normal;
+}
+.card-body .card-text3 {
+	color: #84786C;
+	font-size:14px;
+	margin: 0px 40px;
+	text-align: center;
+	font-weight: normal;
+}

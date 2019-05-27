@@ -1,0 +1,13 @@
+body{
+	width: 95%;
+
+}
+.navbar .navbar-brand{
+	font-size: 50px;
+    font-weight:normal;
+    
+}
+.texto{
+	color:#7C8B88;
+	font-size: 23px;
+}

@@ -1,0 +1,35 @@
+body{
+	
+	background-color:black;
+}
+.contenedor{
+	margin:40px 83.1px;
+	background-color:#E8E8E7;
+
+}
+.img-fluid{
+	height:499px;
+	max-width: 1800px;
+	margin: 15px 0px;
+
+}
+.fila{
+	background-color: #8BCC98;
+	height: 10px;
+}
+.blockquote{
+	background-color:#ffffff;
+	margin: 20px 300px;
+}
+.blockquote  h6{
+	margin-left: 20px;
+	color: gray;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+.blockquote p{
+	margin-right: 10px;
+	color: gray;
+	font-size: 16px;
+}
